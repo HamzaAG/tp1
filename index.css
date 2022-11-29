@@ -1,0 +1,16 @@
+.content {
+  max-width: 50px;
+  margin: auto;
+}
+header {
+  display: flex;
+  background-color: aqua;
+}
+h1 {
+  left: auto;
+}
+img {
+  right: auto;
+  width: 50px;
+  height: 50px;
+}
